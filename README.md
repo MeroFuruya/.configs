@@ -1,0 +1,2 @@
+# .configs
+Some template configs
